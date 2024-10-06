@@ -1,16 +1,21 @@
-## Hi there 👋
+## Yogesh Chandrasekharuni  
+> A madman that turns the prettiest whiteboards into chaotic symphonies of system design.
 
-<!--
-**yogeshchandrasekharuni/yogeshchandrasekharuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* 💽 I love working with data that makes my computer's head spin
+* ⚠️ Running AI at scale is super addictive
+* 🖥️ Distributed computing: because science shows the number of nodes is directly proportional to your happiness!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dogmas
+* 📈 Upscaling AI model parameters is low-hanging fruit
+* 😍 Multi-modal tokenizers are super sexy
+* 🔍 Complexity is not an excuse for the lack of observability and interpretability (unless we're talking *elemental*)
+* 🛠️ Pydantic is all you need
+
+
+## Publications
+
+- **Yogesh Chandrasekharuni**: *"Representing Web Applications as Knowledge Graphs"* [*under review* by **31st IEEE International Conference on High-Performance Computing, Data, & Analytics**] [**arXiv preprint**]
+- **Shuddi**: A smart bot that keeps your Discord channel free of profanity. [**Medium**](https://medium.com/analytics-vidhya/shuddi-a-smart-bot-that-keeps-your-discord-channel-free-of-profanity-5c9cbf30641)
+- **Using AI to detect Bitcoin addresses involved in ransomware transactions** [**Medium**](https://medium.com/analytics-vidhya/using-ai-to-detect-bitcoin-addresses-involved-in-ransomware-transactions-3beaeccba176)
+- **Analyzing Road Accidents in India** [**Medium**](https://yogeshchandrasekharuni.medium.com/analyzing-road-accidents-in-india-bcfde969457f)
