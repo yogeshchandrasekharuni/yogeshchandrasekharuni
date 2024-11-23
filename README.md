@@ -7,6 +7,7 @@
 * 🖥️ Distributed computing: because science shows the number of nodes is directly proportional to your happiness!
 
 ## Dogmas
+* ‼️ Accessibility in tech should be a principle, not a feature
 * 📈 Upscaling AI model parameters is low-hanging fruit
 * 😍 Multi-modal tokenizers are super sexy
 * 🔍 Complexity is not an excuse for the lack of observability and interpretability (unless we're talking *elemental*)
