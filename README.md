@@ -10,7 +10,7 @@
 * ‼️ Accessibility in tech should be a principle, not a feature
 * 📈 Upscaling AI model parameters is low-hanging fruit
 * 😍 Multi-modal tokenizers are super sexy
-* 🔍 Complexity is not an excuse for the lack of observability and interpretability (unless we're talking *elemental*)
+* 🔍 Complexity is not an excuse for the lack of observability and interpretability (unless we’re dealing with the truly *elemental*—where Heisenberg might disagree).
 * 🛠️ Pydantic is all you need
 
 
