@@ -1,18 +1,5 @@
 ## Yogesh Chandrasekharuni  
-> A madman that turns the prettiest whiteboards into chaotic symphonies of system design.
-
-
-* 💽 I love working with data that makes my computer's head spin
-* ⚠️ Running AI at scale is super addictive
-* 🖥️ Distributed computing: because science shows the number of nodes is directly proportional to your happiness!
-
-## Dogmas
-* ‼️ Accessibility in tech should be a principle, not a feature
-* 📈 Upscaling AI model parameters is low-hanging fruit
-* 😍 Multi-modal tokenizers are super sexy
-* 🔍 Complexity is not an excuse for the lack of observability and interpretability (unless we’re dealing with the truly *elemental*—where Heisenberg might disagree).
-* 🛠️ Pydantic is all you need
-
+Designing equitable intelligent systems @ Skil.AI, and helping start-ups bring their ideas to life.
 
 ## Publications (and articles)
 
